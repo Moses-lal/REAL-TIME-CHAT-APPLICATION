@@ -60,3 +60,8 @@ Listens for incoming socket connections.
 Manages broadcasting of messages to all connected clients.
 Handles events like user join, disconnect, and message receive/send.
 
+# output 
+![Screenshot 2025-06-16 132152](https://github.com/user-attachments/assets/c8a42a52-bef1-4b27-a5ae-bd8ca54cda6f)
+![Screenshot 2025-06-16 132202](https://github.com/user-attachments/assets/c885fef6-7fe4-4e22-8d64-0a946b143b0e)
+
+
